@@ -1,0 +1,18 @@
+* Make Naoimi Happy by Having a Plan
+* Data Setup
+** Become familiar with packrat for versioning
+** Retrieve the SA census count data from census
+** Setup a postgis database using SA shapefiles
+* Data Exploration
+** Use template on subset of data
+** Perform simple plots. Look at cross-sections of data
+** Use centering and scaling
+* Dimensionality Reduction
+** SVD, PCA
+* Clustering
+* Visualise Clusters
+* Explain Clusters
+** Create by-cluster visualisations
+** Determine feature importance for cluster classification
+* Check Cluster Coherence
+** Calculate the within-cluster variance
